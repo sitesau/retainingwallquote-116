@@ -1,0 +1,22 @@
+{
+  "wheel_id": 804,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-116",
+  "project": "retaining-wall-quotes-questions-to-ask-e9efc8679aee433269168017",
+  "parent_t1_ref": "retainingwallquote-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes questions to ask",
+  "intended_url": "http://retaining-wall-quotes-questions-to-ask-e9efc8679aee433269168017.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "82e90f2f54362888",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-quotes-cost-guide-4b956a9ddf7fc2d73a5dc54e6eb646/",
+      "anchor": "https://sites-e470-2.web.app/retaining-wall-quotes-cost-guide-4b956a9ddf7fc2d73a5dc54e6eb646/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
